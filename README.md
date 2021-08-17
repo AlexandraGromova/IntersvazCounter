@@ -1,2 +1,4 @@
 # Иллюстрация к проекту
-(https://github.com/AlexandraGromova/IntersvazCounter/tree/master/screenshots/Edited_20210817_112812.mp4)
+
+https://user-images.githubusercontent.com/75542410/129691841-8928567f-cc16-4fcf-a219-9fc3d19714a7.mp4
+
